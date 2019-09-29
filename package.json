@@ -1,15 +1,15 @@
 {
-  "author": "Koichi Suematsu",
+  "author": "Tobie Alb erts",
   "license": "MIT",
-  "name": "ibs_th1",
+  "name": "ibs_th1_tobie",
   "description": "Library to process data broadcasted from IBS-TH1 / IBS-TH1 mini.",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pascaljp/ibs_th1.git"
+    "url": "https://github.com/tobievii/inkbird.git"
   },
   "bugs": {
-    "url": "https://github.com/pascaljp/ibs_th1/issues"
+    "url": "https://github.com/tobievii/inkbird/issues"
   },
   "keywords": [
     "inkbird",
@@ -20,7 +20,7 @@
     "node": ">=6"
   },
   "os": [
-    "darwin"
+    "linux"
   ],
   "dependencies": {
     "@abandonware/noble": "^1.9.2-5",
