@@ -1,0 +1,29 @@
+{
+  "author": "Koichi Suematsu",
+  "license": "MIT",
+  "name": "ibs_th1",
+  "description": "Library to process data broadcasted from IBS-TH1 / IBS-TH1 mini.",
+  "version": "1.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascaljp/ibs_th1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pascaljp/ibs_th1/issues"
+  },
+  "keywords": [
+    "inkbird",
+    "ibs-th1"
+  ],
+  "main": "./ibs_th1.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "os": [
+    "darwin"
+  ],
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-5",
+    "log4js": "^5.1.0"
+  }
+}
